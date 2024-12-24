@@ -1,0 +1,3 @@
+[submodule "movie_app"]
+	path = movie_app
+	url = https://github.com/nien11102002/Movie_App_BE
