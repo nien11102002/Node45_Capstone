@@ -1,4 +1,4 @@
-airbnb_app/node_modules
+airbnb_app/node_modules/
 airbnb_app/.env
 airbnb_app/.env.development.local
 airbnb_app/.env.test.local
@@ -6,7 +6,7 @@ airbnb_app/.env.production.local
 airbnb_app/.env.local
 
 
-fiverr_app/node_modules
+fiverr_app/node_modules/
 fiverr_app/.env
 fiverr_app/.env.development.local
 fiverr_app/.env.test.local
@@ -14,7 +14,7 @@ fiverr_app/.env.production.local
 fiverr_app/.env.local
 
 
-movie_app/node_modules
+movie_app/node_modules/
 movie_app/.env
 movie_app/.env.development.local
 movie_app/.env.test.local
